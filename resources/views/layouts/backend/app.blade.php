@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="{{asset('backend')}}/plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="{{asset('backend')}}/https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-
   <!-- Theme style -->
   <link rel="stylesheet" href="{{asset('backend')}}/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
