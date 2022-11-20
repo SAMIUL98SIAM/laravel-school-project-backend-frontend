@@ -32,7 +32,7 @@
 
   <!-- Main Sidebar Container -->
   @include('layouts.backend.partials.sidebar')
- <!-- /Main Sidebar Container -->
+  <!-- /Main Sidebar Container -->
 
   <!-- Content Wrapper. Contains page content -->
   <div class="content-wrapper">
